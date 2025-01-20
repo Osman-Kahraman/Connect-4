@@ -1,5 +1,7 @@
 # Connect 4 Game in Python
 
+![connect4](https://github.com/user-attachments/assets/e001a13d-bb8a-4103-88e1-34e2243c815f)
+
 This repository contains a Python implementation of the classic Connect 4 game, playable in the console. The game allows two players (X and O) to take turns dropping pieces into a grid, with the goal of forming a horizontal, vertical, or diagonal line of four consecutive pieces. It features an automatic save and load system to keep track of the game state between sessions.
 
 ### Features:
